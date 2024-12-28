@@ -55,7 +55,7 @@ const Footer = () => {
           <div className="space-y-3 sm:space-y-4 text-center sm:text-left">
             <h4 className="text-base sm:text-lg font-semibold">Connect</h4>
             <div className="flex justify-center sm:justify-start space-x-4">
-              <a href="https://github.com/VicktorOSS" target="_blank" rel="noopener noreferrer" 
+              <a href="https://github.com/Miya25" target="_blank" rel="noopener noreferrer" 
                 className="hover:scale-110 hover:text-primary transition-all duration-300 text-xl sm:text-2xl">
                 <FaGithub />
               </a>
